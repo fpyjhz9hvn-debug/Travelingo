@@ -1,0 +1,21 @@
+{
+  "name": "traavellio-framer-clone",
+  "version": "1.0.0",
+  "description": "100% Faithful Reverse-Engineered Clone of Traavellio Framer Template",
+  "main": "server.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs",
+    "test": "node test_server.mjs"
+  },
+  "keywords": [
+    "framer",
+    "framer-motion",
+    "clone",
+    "reverse-engineering",
+    "travel-template"
+  ],
+  "author": "",
+  "license": "ISC"
+}
